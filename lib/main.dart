@@ -126,7 +126,7 @@ class MyHomePage extends StatelessWidget {
                             MaterialPageRoute(
                                 builder: (context) => WebView(
                                       initialUrl:
-                                          'https://www.linkedin.com/company/version- mca-nit-trichy',
+                                          'https://www.linkedin.com/company/version-mca-nit-trichy',
                                       javascriptMode:
                                           JavascriptMode.unrestricted,
                                     )));
